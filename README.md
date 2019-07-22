@@ -1,4 +1,4 @@
-# Azure DevOps HOL
+# Azure DevOps HOL.
 
 This is the source code for Azure DevOps HOL by taking an example of a documentation project.
 
