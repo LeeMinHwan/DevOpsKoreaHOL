@@ -1,7 +1,7 @@
 
 ========================
 
-Azure Az203 실습 마지막날...
+Azure Az203 실습 마지막날...ㅠ
 
 
 # Azure DevOps HOL
